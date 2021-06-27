@@ -1,0 +1,15 @@
+.Navbar {
+    padding: 20px;
+    background: #50cfb2;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+.input__name{
+    display: flex;
+    justify-content: center
+}
+.input__name input{
+    outline: none;
+}
+

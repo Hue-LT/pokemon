@@ -1,0 +1,99 @@
+p {
+    margin: 0;
+}
+
+.Card {
+    background: rgb(222, 238, 238);
+    border-radius: 30px;
+}
+
+.Card__img {
+    text-align: center;
+}
+
+.Card__types {
+    display: flex;
+    justify-content: center;    
+}
+
+.Card__type {
+    padding: 10px 10px;
+    margin: 10px 10px 10px 0;
+    border-radius: 5px;
+    background: cyan;
+    color: #fff;
+}
+
+.Card__name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+.Card__info {
+    margin-left: 10px;
+}
+
+.Card__data {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.Card__data .title {
+    font-weight: 700;
+}
+.cat {
+    margin:auto;
+    display:block;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border-style: none;
+    background: #30a7d7;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 800;
+    text-align: center;
+}
+.nut {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+}
+.details {
+    text-transform: capitalize;
+    font-weight: 800;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.Bag {
+    text-align: right;
+    color: #fff;
+    text-decoration: none
+}
+.Bag:hover {
+    color: black !important;
+}
+.close {
+    background: #30a7d7;
+}
+.modal-name {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.help {
+    text-align: right;
+    text-decoration: none
+}
+.input {
+    border-radius: 10px;
+}
+.para {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.table {
+    background-color: #0d0d0e;
+    color: blanchedalmond !important;
+    text-align: center;
+}
